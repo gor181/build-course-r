@@ -372,6 +372,8 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 
 
 
+
+
 ---
 ## More movies
 
@@ -449,5 +451,196 @@ test_error()
 
 success_msg("Good work!")
 ```
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+
+xp: 
+
+key: adeb0f2494
+```
+
+assignment
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 2f41de1740
+```
+
+
+
+`@instructions`
+normal ex
+
+`@hint`
+hint
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+
+xp: 
+
+key: 2b968098e1
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 424d3c4227
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+
+xp: 
+
+key: d6a209f641
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: fd9eca790f
+```
+
+
+
+`@instructions`
+been here
+
+`@hint`
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise
+
+xp: 
+
+key: 02bb940af2
+```
+
+
+
+`@instructions`
+been here 2
+
+`@hint`
+
+
+
+
+
+
+
+
+
 
 
