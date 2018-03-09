@@ -670,7 +670,7 @@ hint
 - [1]
 - 2
 
-`@feedbacks`
+`@feedback`
 - ok
 - not ok
 
