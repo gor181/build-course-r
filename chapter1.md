@@ -462,7 +462,7 @@ success_msg("Good work!")
 ```yaml
 type: TabExercise
 
-xp: 
+xp: NaN
 
 key: adeb0f2494
 ```
@@ -486,7 +486,7 @@ assignment
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: 2f41de1740
 ```
@@ -515,7 +515,7 @@ hint
 ```yaml
 type: TabExercise
 
-xp: 
+xp: NaN
 
 key: 2b968098e1
 ```
@@ -539,7 +539,7 @@ key: 2b968098e1
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: 424d3c4227
 ```
@@ -568,7 +568,7 @@ key: 424d3c4227
 ```yaml
 type: TabExercise
 
-xp: 
+xp: NaN
 
 key: d6a209f641
 ```
@@ -592,7 +592,7 @@ key: d6a209f641
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: fd9eca790f
 ```
@@ -622,7 +622,7 @@ been here
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: 02bb940af2
 ```
@@ -641,6 +641,38 @@ been here 2
 
 
 
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: 697a0a4ee7
+```
+
+assignment
+
+
+`@hint`
+hint
+
+
+
+
+
+`@possible_answers`
+- [1]
+- 2
+
+`@feedbacks`
+- ok
+- not ok
 
 
 
