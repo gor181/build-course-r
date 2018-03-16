@@ -34,17 +34,13 @@ key: 6134f7e696
 ```yaml
 type: MultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: c5b95e9c77
 ```
 
+assignment
 
-
-`@instructions`
-
-
-`@hint`
 
 
 
@@ -62,26 +58,28 @@ key: c5b95e9c77
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: f260bef449
 ```
 
-
+how are you today
 
 
 `@hint`
-
+Im fine thanks
 
 
 
 
 
 `@possible_answers`
-
+- [i'm ok]
+- not ok
 
 `@feedbacks`
-
+- good
+- bad
 
 
 
@@ -92,12 +90,12 @@ key: f260bef449
 ```yaml
 type: TabExercise
 
-xp: 
+xp: NaN
 
 key: ff2903962d
 ```
 
-
+this is a tab exercise
 
 
 
@@ -116,7 +114,7 @@ key: ff2903962d
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: f289e04658
 ```
@@ -124,7 +122,7 @@ key: f289e04658
 
 
 `@instructions`
-
+instructions 1
 
 `@hint`
 
@@ -146,7 +144,7 @@ key: f289e04658
 ```yaml
 type: MultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: 087c71b069
 ```
@@ -176,7 +174,7 @@ key: 087c71b069
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: 19b0a766ff
 ```
@@ -207,7 +205,7 @@ key: 19b0a766ff
 ```yaml
 type: BulletExercise
 
-xp: 
+xp: NaN
 
 key: b4986fd506
 ```
@@ -231,7 +229,7 @@ key: b4986fd506
 ```yaml
 type: NormalExercise
 
-xp: 
+xp: NaN
 
 key: f05b7df4d4
 ```
@@ -261,7 +259,7 @@ key: f05b7df4d4
 ```yaml
 type: MultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: c9e5d11a54
 ```
@@ -291,7 +289,7 @@ key: c9e5d11a54
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: 31d077660f
 ```
@@ -312,6 +310,94 @@ key: 31d077660f
 `@feedbacks`
 
 
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: NaN
+
+key: e8aa0cd19d
+```
+
+dasdsa
+
+
+`@hint`
+dsadas
+
+
+
+
+
+`@possible_answers`
+- [ok]
+- not ok
+
+`@feedbacks`
+- yes
+- no
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+
+xp: NaN
+
+key: 9833955dec
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+
+xp: 
+
+key: f8eb34a1b6
+```
+
+assignment
+
+
+`@hint`
+a hint
+
+
+
+
+
+`@possible_answers`
+- [1]
+- 2
+
+`@feedbacks`
+- correct
+- not correct
 
 
 
