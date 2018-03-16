@@ -5,107 +5,29 @@ description: >-
 
 
 ---
-## Insert exercise title here
-
-```yaml
-type: MultipleChoiceExercise
-
-xp: NaN
-
-key: f2f485114d
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-## Insert exercise title here
-
-```yaml
-type: MultipleChoiceExercise
-
-xp: NaN
-
-key: cb9bdde524
-```
-
-ok this seems to work but it's somehow delayed...
-
-
-
-
-
-
-
-
-
-
-
-
----
-## Insert exercise title here
+## Normal
 
 ```yaml
 type: NormalExercise
 
-xp: NaN
-
-key: e3c969f267
-```
-
-boom and what happened!?
-
-`@instructions`
-ok izgleda da radi
-
-
-
-
-
-
-
-
-
-
-
----
-## puremce
-
-```yaml
-type: PureMultipleChoiceExercise
-
 xp: 
 
-key: c4cc419a90
+key: 6134f7e696
 ```
 
-assignment
+
+
+`@instructions`
 
 
 `@hint`
-hint
 
 
 
 
 
-`@possible_answers`
-- 1
-- [2]
 
-`@feedbacks`
-- not
-- ok
+
 
 
 
