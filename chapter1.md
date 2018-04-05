@@ -15,11 +15,26 @@ xp: NaN
 key: 6134f7e696
 ```
 
+pdnaskdma
+
+`@instructions`
 
 
+`@hint`
 
 
-
+`@pre_exercise_code`
+```{}
+daskdnaskldnklasndklas
+daslkdnaskldnklas
+dasdalkndakslndklasnkldankld
+d
+a
+da
+d
+a
+da
+```
 
 
 
@@ -376,7 +391,7 @@ key: 9833955dec
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: f8eb34a1b6
 ```
