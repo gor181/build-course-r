@@ -17,14 +17,10 @@ key: 6134f7e696
 
 pdnaskdmaaaa
 
-`@instructions`
-
-
-`@hint`
 
 
 `@pre_exercise_code`
-```{}
+```{undefined}
 daskdnaskldnklasndklas
 daslkdnaskldnklas
 dasdalkndakslndklasnkldankld
@@ -225,12 +221,18 @@ xp: NaN
 key: b4986fd506
 ```
 
+this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 
 
-
-
-
+`@pre_exercise_code`
+```{}
+code
+```
+`@sample_code`
+```{}
+code
+```
 
 
 
@@ -336,7 +338,7 @@ key: 31d077660f
 ```yaml
 type: MultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: 205e240d34
 ```
@@ -453,7 +455,7 @@ a hint
 ```yaml
 type: MultipleChoiceExercise
 
-xp: 
+xp: NaN
 
 key: 34ce4ccf10
 ```
@@ -469,7 +471,7 @@ mac
 das
 
 `@pre_exercise_code`
-```{}
+```{undefined}
 # pre ec
 ```
 
