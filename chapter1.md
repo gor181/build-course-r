@@ -226,11 +226,11 @@ this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 
 `@pre_exercise_code`
-```{}
+```{undefined}
 code
 ```
 `@sample_code`
-```{}
+```{undefined}
 code
 ```
 
@@ -432,7 +432,7 @@ assignment
 
 
 `@hint`
-a hint
+ok seems to be workign
 
 
 
@@ -481,3 +481,41 @@ das
 
 
 
+
+---
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+
+xp: NaN
+
+key: c82cf1f1b8
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+
+xp: undefined
+
+key: c5a0dda76b
+```
+
+`@projector_key`
+9b8e5a8ffff6b5070b7ec4fd1193329b
