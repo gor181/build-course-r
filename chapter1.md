@@ -329,6 +329,36 @@ key: 31d077660f
 
 
 
+***
+
+
+
+```yaml
+type: MultipleChoiceExercise
+
+xp: 
+
+key: 205e240d34
+```
+
+
+
+`@instructions`
+ssa
+
+`@hint`
+aa
+
+
+
+
+
+
+
+
+
+
+
 ---
 ## Insert exercise title here
 
