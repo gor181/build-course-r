@@ -416,3 +416,36 @@ a hint
 
 
 
+
+---
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+
+xp: 
+
+key: 34ce4ccf10
+```
+
+mac
+
+`@instructions`
+- 1
+- 2
+- 3
+
+`@hint`
+das
+
+`@pre_exercise_code`
+```{}
+# pre ec
+```
+
+
+
+
+
+
+
