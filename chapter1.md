@@ -10,17 +10,21 @@ description: >-
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 6134f7e696
 ```
 
-pdnaskdmaaaa
+changed
 
+`@instructions`
+
+
+`@hint`
 
 
 `@pre_exercise_code`
-```{undefined}
+```{}
 daskdnaskldnklasndklas
 daslkdnaskldnklas
 dasdalkndakslndklasnkldankld
@@ -45,7 +49,7 @@ da
 ```yaml
 type: MultipleChoiceExercise
 
-xp: NaN
+xp: 50
 
 key: c5b95e9c77
 ```
@@ -69,7 +73,7 @@ assignment
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: NaN
+xp: 50
 
 key: f260bef449
 ```
@@ -101,7 +105,7 @@ Im fine thanks
 ```yaml
 type: TabExercise
 
-xp: NaN
+xp: 100
 
 key: ff2903962d
 ```
@@ -125,7 +129,7 @@ this is a tab exercise
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 35
 
 key: f289e04658
 ```
@@ -155,7 +159,7 @@ instructions 1
 ```yaml
 type: MultipleChoiceExercise
 
-xp: NaN
+xp: 35
 
 key: 087c71b069
 ```
@@ -185,7 +189,7 @@ key: 087c71b069
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: NaN
+xp: 30
 
 key: 19b0a766ff
 ```
@@ -216,7 +220,7 @@ key: 19b0a766ff
 ```yaml
 type: BulletExercise
 
-xp: NaN
+xp: 100
 
 key: b4986fd506
 ```
@@ -246,7 +250,7 @@ code
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 25
 
 key: f05b7df4d4
 ```
@@ -276,7 +280,7 @@ key: f05b7df4d4
 ```yaml
 type: MultipleChoiceExercise
 
-xp: NaN
+xp: 25
 
 key: c9e5d11a54
 ```
@@ -306,7 +310,7 @@ key: c9e5d11a54
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: NaN
+xp: 25
 
 key: 31d077660f
 ```
@@ -338,7 +342,7 @@ key: 31d077660f
 ```yaml
 type: MultipleChoiceExercise
 
-xp: NaN
+xp: 25
 
 key: 205e240d34
 ```
@@ -367,7 +371,7 @@ aa
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: NaN
+xp: 50
 
 key: e8aa0cd19d
 ```
@@ -399,7 +403,7 @@ dsadas
 ```yaml
 type: NormalExercise
 
-xp: NaN
+xp: 100
 
 key: 9833955dec
 ```
@@ -423,7 +427,7 @@ key: 9833955dec
 ```yaml
 type: PureMultipleChoiceExercise
 
-xp: NaN
+xp: 50
 
 key: f8eb34a1b6
 ```
@@ -455,7 +459,7 @@ ok seems to be workign
 ```yaml
 type: MultipleChoiceExercise
 
-xp: NaN
+xp: 50
 
 key: 34ce4ccf10
 ```
@@ -488,7 +492,7 @@ das
 ```yaml
 type: MultipleChoiceExercise
 
-xp: NaN
+xp: 50
 
 key: c82cf1f1b8
 ```
@@ -512,7 +516,7 @@ key: c82cf1f1b8
 ```yaml
 type: VideoExercise
 
-xp: undefined
+xp: 50
 
 key: c5a0dda76b
 ```
