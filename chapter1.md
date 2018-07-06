@@ -18,7 +18,7 @@ changed
 
 `@pre_exercise_code`
 
-```{undefined}
+```{r}
 daskdnaskldnklasndklas
 daslkdnaskldnklas
 dasdalkndakslndklasnkldankld
@@ -218,12 +218,12 @@ this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 `@pre_exercise_code`
 
-```{undefined}
+```{r}
 code
 ```
 `@sample_code`
 
-```{undefined}
+```{r}
 code
 ```
 
@@ -457,7 +457,7 @@ das
 
 `@pre_exercise_code`
 
-```{undefined}
+```{r}
 # pre ec
 ```
 
@@ -513,7 +513,7 @@ xp: 100
 key: e0ccadecd7   
 ```
 
-
+change
 
 `@instructions`
 
@@ -523,25 +523,25 @@ key: e0ccadecd7
 
 `@pre_exercise_code`
 
-```{undefined}
+```{r}
 
 ```
 
 `@sample_code`
 
-```{undefined}
+```{r}
 
 ```
 
 `@solution`
 
-```{undefined}
+```{r}
 
 ```
 
 `@sct`
 
-```{undefined}
+```{r}
 
 ```
 
