@@ -1,30 +1,24 @@
 ---
-title: Insert the chapter title here
-description: >-
-  Insert the chapter description here
-
+  title: "Insert the chapter title here"
+  description: "Insert the chapter description here"
+  v2: true
 
 ---
 ## Normal
 
 ```yaml
-type: NormalExercise
-
-xp: 100
-
-key: 6134f7e696
+type: NormalExercise 
+xp: 100 
+key: 6134f7e696   
 ```
 
 changed
 
-`@instructions`
-
-
-`@hint`
 
 
 `@pre_exercise_code`
-```{}
+
+```{undefined}
 daskdnaskldnklasndklas
 daslkdnaskldnklas
 dasdalkndakslndklasnkldankld
@@ -43,18 +37,18 @@ da
 
 
 
+
 ---
 ## MultipleChoice
 
 ```yaml
-type: MultipleChoiceExercise
-
-xp: 50
-
-key: c5b95e9c77
+type: MultipleChoiceExercise 
+xp: 50 
+key: c5b95e9c77   
 ```
 
 assignment
+
 
 
 
@@ -71,11 +65,9 @@ assignment
 ## Pure Multiple Choice
 
 ```yaml
-type: PureMultipleChoiceExercise
-
-xp: 50
-
-key: f260bef449
+type: PureMultipleChoiceExercise 
+xp: 50 
+key: f260bef449   
 ```
 
 how are you today
@@ -99,18 +91,18 @@ Im fine thanks
 
 
 
+
 ---
 ## Tab
 
 ```yaml
-type: TabExercise
-
-xp: 100
-
-key: ff2903962d
+type: TabExercise 
+xp: 100 
+key: ff2903962d   
 ```
 
 this is a tab exercise
+
 
 
 
@@ -127,11 +119,9 @@ this is a tab exercise
 
 
 ```yaml
-type: NormalExercise
-
-xp: 35
-
-key: f289e04658
+type: NormalExercise 
+xp: 35 
+key: f289e04658   
 ```
 
 
@@ -152,16 +142,15 @@ instructions 1
 
 
 
+
 ***
 
 
 
 ```yaml
-type: MultipleChoiceExercise
-
-xp: 35
-
-key: 087c71b069
+type: MultipleChoiceExercise 
+xp: 35 
+key: 087c71b069   
 ```
 
 
@@ -182,16 +171,15 @@ key: 087c71b069
 
 
 
+
 ***
 
 
 
 ```yaml
-type: PureMultipleChoiceExercise
-
-xp: 30
-
-key: 19b0a766ff
+type: PureMultipleChoiceExercise 
+xp: 30 
+key: 19b0a766ff   
 ```
 
 
@@ -208,6 +196,7 @@ key: 19b0a766ff
 
 
 `@feedbacks`
+
 
 
 
@@ -218,11 +207,9 @@ key: 19b0a766ff
 ## Bullet
 
 ```yaml
-type: BulletExercise
-
-xp: 100
-
-key: b4986fd506
+type: BulletExercise 
+xp: 100 
+key: b4986fd506   
 ```
 
 this is the assignment and it seems to be working. Goranhere testing HotJar.
@@ -230,10 +217,12 @@ this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 
 `@pre_exercise_code`
+
 ```{undefined}
 code
 ```
 `@sample_code`
+
 ```{undefined}
 code
 ```
@@ -243,16 +232,15 @@ code
 
 
 
+
 ***
 
 
 
 ```yaml
-type: NormalExercise
-
-xp: 25
-
-key: f05b7df4d4
+type: NormalExercise 
+xp: 25 
+key: f05b7df4d4   
 ```
 
 
@@ -273,16 +261,15 @@ key: f05b7df4d4
 
 
 
+
 ***
 
 
 
 ```yaml
-type: MultipleChoiceExercise
-
-xp: 25
-
-key: c9e5d11a54
+type: MultipleChoiceExercise 
+xp: 25 
+key: c9e5d11a54   
 ```
 
 
@@ -303,16 +290,15 @@ key: c9e5d11a54
 
 
 
+
 ***
 
 
 
 ```yaml
-type: PureMultipleChoiceExercise
-
-xp: 25
-
-key: 31d077660f
+type: PureMultipleChoiceExercise 
+xp: 25 
+key: 31d077660f   
 ```
 
 
@@ -335,16 +321,15 @@ key: 31d077660f
 
 
 
+
 ***
 
 
 
 ```yaml
-type: MultipleChoiceExercise
-
-xp: 25
-
-key: 205e240d34
+type: MultipleChoiceExercise 
+xp: 25 
+key: 205e240d34   
 ```
 
 
@@ -365,15 +350,14 @@ aa
 
 
 
+
 ---
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise
-
-xp: 50
-
-key: e8aa0cd19d
+type: PureMultipleChoiceExercise 
+xp: 50 
+key: e8aa0cd19d   
 ```
 
 dasdsa
@@ -397,15 +381,14 @@ dsadas
 
 
 
+
 ---
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-
-xp: 100
-
-key: 9833955dec
+type: NormalExercise 
+xp: 100 
+key: 9833955dec   
 ```
 
 
@@ -421,15 +404,14 @@ key: 9833955dec
 
 
 
+
 ---
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise
-
-xp: 50
-
-key: f8eb34a1b6
+type: PureMultipleChoiceExercise 
+xp: 50 
+key: f8eb34a1b6   
 ```
 
 assignment
@@ -453,15 +435,14 @@ ok seems to be workign
 
 
 
+
 ---
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise
-
-xp: 50
-
-key: 34ce4ccf10
+type: MultipleChoiceExercise 
+xp: 50 
+key: 34ce4ccf10   
 ```
 
 mac
@@ -475,6 +456,7 @@ mac
 das
 
 `@pre_exercise_code`
+
 ```{undefined}
 # pre ec
 ```
@@ -486,15 +468,14 @@ das
 
 
 
+
 ---
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise
-
-xp: 50
-
-key: c82cf1f1b8
+type: MultipleChoiceExercise 
+xp: 50 
+key: c82cf1f1b8   
 ```
 
 
@@ -510,16 +491,61 @@ key: c82cf1f1b8
 
 
 
+
 ---
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise
-
-xp: 50
-
-key: c5a0dda76b
+type: VideoExercise 
+xp: 50 
+key: c5a0dda76b   
 ```
 
 `@projector_key`
 9b8e5a8ffff6b5070b7ec4fd1193329b
+
+---
+## Insert exercise title here
+
+```yaml
+type: NormalExercise 
+xp: 100 
+key: e0ccadecd7   
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{undefined}
+
+```
+
+`@sample_code`
+
+```{undefined}
+
+```
+
+`@solution`
+
+```{undefined}
+
+```
+
+`@sct`
+
+```{undefined}
+
+```
+
+
+
+
+
