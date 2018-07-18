@@ -1,9 +1,8 @@
 ---
   title: "Insert the chapter title here"
   description: "Insert the chapter description here"
-  v2: true
-
 ---
+
 ## Normal
 
 ```yaml
@@ -12,8 +11,14 @@ xp: 100
 key: 6134f7e696   
 ```
 
-changed
 
+this has changed
+
+
+`@instructions`
+
+
+`@hint`
 
 
 `@pre_exercise_code`
@@ -30,15 +35,29 @@ a
 da
 ```
 
+`@sample_code`
+
+```{r}
+
+```
 
 
+`@solution`
+
+```{r}
+
+```
 
 
+`@sct`
 
+```{r}
 
+```
 
 
 ---
+
 ## MultipleChoice
 
 ```yaml
@@ -47,21 +66,12 @@ xp: 50
 key: c5b95e9c77   
 ```
 
+
 assignment
 
 
-
-
-
-
-
-
-
-
-
-
-
 ---
+
 ## Pure Multiple Choice
 
 ```yaml
@@ -70,15 +80,12 @@ xp: 50
 key: f260bef449   
 ```
 
+
 how are you today
 
 
 `@hint`
 Im fine thanks
-
-
-
-
 
 `@possible_answers`
 - [i'm ok]
@@ -88,11 +95,8 @@ Im fine thanks
 - good
 - bad
 
-
-
-
-
 ---
+
 ## Tab
 
 ```yaml
@@ -101,17 +105,8 @@ xp: 100
 key: ff2903962d   
 ```
 
+
 this is a tab exercise
-
-
-
-
-
-
-
-
-
-
 
 
 ***
@@ -126,20 +121,12 @@ key: f289e04658
 
 
 
+
+
 `@instructions`
 instructions 1
 
 `@hint`
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -155,20 +142,12 @@ key: 087c71b069
 
 
 
+
+
 `@instructions`
 
 
 `@hint`
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -185,11 +164,8 @@ key: 19b0a766ff
 
 
 
+
 `@hint`
-
-
-
-
 
 
 `@possible_answers`
@@ -199,11 +175,8 @@ key: 19b0a766ff
 
 
 
-
-
-
-
 ---
+
 ## Bullet
 
 ```yaml
@@ -212,8 +185,8 @@ xp: 100
 key: b4986fd506   
 ```
 
-this is the assignment and it seems to be working. Goranhere testing HotJar.
 
+this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 
 `@pre_exercise_code`
@@ -221,17 +194,12 @@ this is the assignment and it seems to be working. Goranhere testing HotJar.
 ```{r}
 code
 ```
+
 `@sample_code`
 
 ```{r}
 code
 ```
-
-
-
-
-
-
 
 ***
 
@@ -245,20 +213,12 @@ key: f05b7df4d4
 
 
 
+
+
 `@instructions`
 
 
 `@hint`
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -274,20 +234,12 @@ key: c9e5d11a54
 
 
 
+
+
 `@instructions`
 
 
 `@hint`
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -304,21 +256,14 @@ key: 31d077660f
 
 
 
+
 `@hint`
-
-
-
-
 
 
 `@possible_answers`
 
 
 `@feedbacks`
-
-
-
-
 
 
 
@@ -334,6 +279,8 @@ key: 205e240d34
 
 
 
+
+
 `@instructions`
 ssa
 
@@ -341,17 +288,8 @@ ssa
 aa
 
 
-
-
-
-
-
-
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
@@ -360,15 +298,12 @@ xp: 50
 key: e8aa0cd19d   
 ```
 
+
 dasdsa
 
 
 `@hint`
 dsadas
-
-
-
-
 
 `@possible_answers`
 - [ok]
@@ -378,11 +313,8 @@ dsadas
 - yes
 - no
 
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
@@ -395,17 +327,8 @@ key: 9833955dec
 
 
 
-
-
-
-
-
-
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
@@ -414,15 +337,12 @@ xp: 50
 key: f8eb34a1b6   
 ```
 
+
 assignment
 
 
 `@hint`
 ok seems to be workign
-
-
-
-
 
 `@possible_answers`
 - [1]
@@ -432,11 +352,8 @@ ok seems to be workign
 - correct
 - not correct
 
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
@@ -445,7 +362,9 @@ xp: 50
 key: 34ce4ccf10   
 ```
 
+
 mac
+
 
 `@instructions`
 - 1
@@ -461,15 +380,8 @@ das
 # pre ec
 ```
 
-
-
-
-
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
@@ -482,17 +394,8 @@ key: c82cf1f1b8
 
 
 
-
-
-
-
-
-
-
-
-
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
@@ -503,8 +406,8 @@ key: c5a0dda76b
 
 `@projector_key`
 9b8e5a8ffff6b5070b7ec4fd1193329b
-
 ---
+
 ## Insert exercise title here
 
 ```yaml
@@ -513,39 +416,61 @@ xp: 100
 key: e0ccadecd7   
 ```
 
+
 change
 
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: ebfabd1841   
+```
+
+`@projector_key`
+f78b529cd0840764af00ebc2876f751d
+---
+
+## <<<New Exercise>>>
+
+```yaml
+type: MultipleChoiceExercise 
+lang: r
+xp: 50 
+skills: 1
+key: fc9e67768c   
+```
+
+
+this is a question
+
+
 `@instructions`
+- instruction 1
+- instruction 2
 
+---
 
-`@hint`
+## <<<New Exercise>>>
 
-
-`@pre_exercise_code`
-
-```{r}
-
-```
-
-`@sample_code`
-
-```{r}
-
-```
-
-`@solution`
-
-```{r}
-
-```
-
-`@sct`
-
-```{r}
-
+```yaml
+type: PureMultipleChoiceExercise 
+xp: 50 
+skills: 1
+key: 9be5906e74   
 ```
 
 
 
 
 
+`@possible_answers`
+- [1]
+- 2
+
+`@feedbacks`
+- good
+- bad
