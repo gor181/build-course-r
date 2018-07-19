@@ -1,6 +1,9 @@
 ---
 title: Insert title here
 key: 64d1d77fd02ccea64155854db2f35aed
+video_link:
+
+  mp3: https://s3.amazonaws.com/videos.datacamp.com/mp3/5103_inference_for_numerical_data/v1/5103_ch4_5.mp3
 
 ---
 ## Title Slide
@@ -54,7 +57,7 @@ key: 54eaad284a
 ```
 
 `@part1`
- {{-}}
+forgot to add content {{-}}
 
 
 
@@ -88,30 +91,6 @@ Integer iaculis nisi vitae bibendum aliquet. Maecenas finibus magna a gravida ve
 
 
 ---
-## Insert title here...
-
-```yaml
-type: TwoRowsWideBottom
-key: ce5425898f
-```
-
-`@part1`
-section  {{-}}
-
-`@part2`
-section  {{-}}
-
-`@part3`
-section  {{-}}
-
-
-
-`@script`
-Integer iaculis nisi vitae bibendum aliquet. Maecenas finibus magna a gravida venenatis. Sed finibus aliquet lorem at ultricies. Mauris venenatis, libero vitae vulputate porta, dui massa rhoncus odio, a lobortis quam dui in risus. Nunc dignissim non erat quis cursus. In imperdiet mollis lorem nec sodales. Pellentesque tristique justo commodo vulputate dignissim. Vestibulum sit amet faucibus sem. In vel vehicula nisi, id lacinia nulla. Sed sagittis eget eros ac elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nunc dolor, pellentesque ac dapibus non, molestie non nibh. Pellentesque viverra ligula eu orci auctor, ut tempus magna fringilla. Praesent justo metus, gravida in arcu rhoncus, rutrum auctor mi. Vestibulum molestie libero quis lectus congue, vel vulputate tellus fringilla.
-
-
-
----
 ## Final Slide
 
 ```yaml
@@ -123,8 +102,6 @@ key: 2e9e804351
 
 
 
-
-`@script`
 
 
 
