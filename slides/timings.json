@@ -44,5 +44,74 @@
         "indexf": -1
       }
     }
+  ],
+  "slides/chapter_2_a6ffd10835703a3371821c0e25ef1ee7.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.09418663150650279,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.24470950632168745,
+      "state": {
+        "indexh": 1,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.3835672323759791,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.6241654977955868,
+      "state": {
+        "indexh": 2,
+        "indexf": 0
+      }
+    }
+  ],
+  "slides/chapter_2_6fcf301e49613465d27d4b24b6af72e6.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    }
+  ],
+  "slides/chapter_2_19fe255d261c6d7c99ce35032c096856.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.08828359836464893,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.2105405152145417,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    }
   ]
 }
