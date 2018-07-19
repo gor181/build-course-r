@@ -12,28 +12,21 @@ key: 6134f7e696
 ```
 
 
-this is going to voerre
+change
 
 
 `@instructions`
 
 
 `@hint`
-
+Agree with their instructor to use a new one or old one
 
 `@pre_exercise_code`
 
 ```{r}
-daskdnaskldnklasndklas
-daslkdnaskldnklas
-dasdalkndakslndklasnkldankld
-d
-a
-da
-d
-a
-da
+
 ```
+
 
 `@sample_code`
 
