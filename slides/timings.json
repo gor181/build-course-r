@@ -171,5 +171,42 @@
         "indexf": 0
       }
     }
+  ],
+  "slides/chapter_3_3e6d1a1f7c0ede69e1d8eff3afecf7b8.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.0940707506502039,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.1551955004941922,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.6590241514360313,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.8472289605342052,
+      "state": {
+        "indexh": 3,
+        "indexf": -1
+      }
+    }
   ]
 }
