@@ -40,7 +40,7 @@ key: 0244091d70
 step 1 {{-}}
 
 `@part2`
-step 2 {{1}}
+step 2 {{-}}
 
 `@part3`
 step 3 {{-}}
