@@ -57,6 +57,28 @@ step 3 {{-}}
 
 ```yaml
 type: FullCodeSlide
+key: 7e2c512a55
+```
+
+`@part1`
+a step {{-}}
+
+second step {{-}}
+
+
+
+
+
+`@script`
+
+
+
+
+---
+## Insert title here...
+
+```yaml
+type: FullCodeSlide
 key: 67777b26e8
 ```
 
