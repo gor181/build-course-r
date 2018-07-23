@@ -61,7 +61,7 @@ key: 7e2c512a55
 ```
 
 `@part1`
-a step {{-}}
+a step {{1}}
 
 second step {{-}}
 
