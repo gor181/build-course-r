@@ -23,8 +23,6 @@ name: Goran
 title: Title
 
 
-`@script`
-
 
 
 
@@ -40,7 +38,7 @@ key: 0244091d70
 step 1 {{-}}
 
 `@part2`
-step 2 {{-}}
+step 2 {{1}}
 
 `@part3`
 step 3 {{-}}
@@ -71,8 +69,6 @@ second step {{-}}
 
 
 
-`@script`
-
 
 
 
@@ -91,8 +87,6 @@ step 1 {{-}}
 
 
 
-`@script`
-
 
 
 
@@ -108,8 +102,6 @@ key: 9467d3e271
 
 
 
-
-`@script`
 
 
 

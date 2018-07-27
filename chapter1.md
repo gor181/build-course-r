@@ -3,7 +3,7 @@
   description: "Insert the chapter description here"
 ---
 
-## Normal
+## testing long long testing long long testing long long testing long long testing long long testing long long testing long long testing long long
 
 ```yaml
 type: NormalExercise 
@@ -15,39 +15,14 @@ key: 6134f7e696
 changeda
 
 
-`@instructions`
-
-
 `@hint`
 Agree with their instructor to use a new one or old one
-
-`@pre_exercise_code`
-
-```{r}
-
-```
-
-
-`@sample_code`
-
-```{r}
-
-```
-
-
-`@solution`
-
-```{r}
-
-```
-
 
 `@sct`
 
 ```{r}
-
+dsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkals
 ```
-
 
 ---
 
@@ -467,3 +442,16 @@ key: 9be5906e74
 `@feedbacks`
 - good
 - bad
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 55aa9d936f   
+```
+
+`@projector_key`
+08521096d1ea8d0b3b8102175b708690
