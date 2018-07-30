@@ -15,20 +15,6 @@ key: 6884254136
 
 
 
-`@pre_exercise_code`
-
-```{r}
-
-```
-
-
-`@sample_code`
-
-```{r}
-
-```
-
-
 ***
 
 
@@ -86,7 +72,7 @@ key: 5bcd93a328
 
 
 `@instructions`
-
+assignment
 
 `@hint`
 
