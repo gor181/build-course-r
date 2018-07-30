@@ -300,31 +300,6 @@ key: 9833955dec
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: f8eb34a1b6   
-```
-
-
-assignment
-
-
-`@hint`
-ok seems to be workign
-
-`@possible_answers`
-- [1]
-- 2
-
-`@feedbacks`
-- correct
-- not correct
-
----
-
-## Insert exercise title here
-
-```yaml
 type: MultipleChoiceExercise 
 xp: 50 
 key: 34ce4ccf10   
@@ -347,6 +322,31 @@ das
 ```{r}
 # pre ec
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise 
+xp: 50 
+key: f8eb34a1b6   
+```
+
+
+assignment
+
+
+`@hint`
+ok seems to be workign
+
+`@possible_answers`
+- [1]
+- 2
+
+`@feedbacks`
+- correct
+- not correct
 
 ---
 
