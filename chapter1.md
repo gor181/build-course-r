@@ -422,6 +422,18 @@ this is a question
 
 ---
 
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 55aa9d936f   
+```
+
+`@projector_key`
+08521096d1ea8d0b3b8102175b708690
+---
+
 ## <<<New Exercise>>>
 
 ```yaml
@@ -442,16 +454,3 @@ key: 9be5906e74
 `@feedbacks`
 - good
 - bad
-
----
-
-## Insert exercise title here
-
-```yaml
-type: VideoExercise 
-xp: 50 
-key: 55aa9d936f   
-```
-
-`@projector_key`
-08521096d1ea8d0b3b8102175b708690
