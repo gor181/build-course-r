@@ -1,6 +1,6 @@
 ---
-  title: "Insert the chapter title here"
-  description: "Insert the chapter description here"
+title: 'Insert the chapter title here'
+description: 'Insert the chapter description here'
 ---
 
 ## testing long long testing long long testing long long testing long long testing long long testing long long testing long long testing long long
@@ -15,14 +15,45 @@ key: 6134f7e696
 changeda
 
 
+`@instructions`
+
+
 `@hint`
 Agree with their instructor to use a new one or old one
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
 
 `@sct`
 
 ```{r}
 dsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkals
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
 
 ---
 
@@ -36,6 +67,46 @@ key: c5b95e9c77
 
 
 assignment
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ---
@@ -52,14 +123,45 @@ key: f260bef449
 how are you today
 
 
+`@instructions`
+
+
 `@hint`
 Im fine thanks
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
 
 `@possible_answers`
 - [i'm ok]
 - not ok
 
-`@feedbacks`
+`@feedback`
 - good
 - bad
 
@@ -75,6 +177,46 @@ key: ff2903962d
 
 
 this is a tab exercise
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ***
@@ -95,6 +237,40 @@ key: f289e04658
 instructions 1
 
 `@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -118,6 +294,40 @@ key: 087c71b069
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 
 ***
 
@@ -133,13 +343,44 @@ key: 19b0a766ff
 
 
 
+`@instructions`
+
+
 `@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
 
 
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 
 
 
@@ -157,17 +398,45 @@ key: b4986fd506
 this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 
+`@instructions`
+
+
+`@hint`
+
+
 `@pre_exercise_code`
 
 ```{r}
 code
 ```
 
+
 `@sample_code`
 
 ```{r}
 code
 ```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
 
 ***
 
@@ -187,6 +456,40 @@ key: f05b7df4d4
 
 
 `@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -210,6 +513,40 @@ key: c9e5d11a54
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 
 ***
 
@@ -225,13 +562,44 @@ key: 31d077660f
 
 
 
+`@instructions`
+
+
 `@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
 
 
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 
 
 
@@ -255,6 +623,40 @@ ssa
 `@hint`
 aa
 
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 
 ---
 
@@ -270,14 +672,45 @@ key: e8aa0cd19d
 dasdsa
 
 
+`@instructions`
+
+
 `@hint`
 dsadas
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
 
 `@possible_answers`
 - [ok]
 - not ok
 
-`@feedbacks`
+`@feedback`
 - yes
 - no
 
@@ -293,6 +726,46 @@ key: 9833955dec
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ---
@@ -323,6 +796,34 @@ das
 # pre ec
 ```
 
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here
@@ -337,14 +838,45 @@ key: f8eb34a1b6
 assignment
 
 
+`@instructions`
+
+
 `@hint`
 ok seems to be workign
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
 
 `@possible_answers`
 - [1]
 - 2
 
-`@feedbacks`
+`@feedback`
 - correct
 - not correct
 
@@ -360,6 +892,46 @@ key: c82cf1f1b8
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ---
@@ -386,6 +958,46 @@ key: e0ccadecd7
 
 
 change
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ---
@@ -420,6 +1032,43 @@ this is a question
 - instruction 1
 - instruction 2
 
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
 ---
 
 ## Insert exercise title here
@@ -447,10 +1096,44 @@ key: 9be5906e74
 
 
 
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
 `@possible_answers`
 - [1]
 - 2
 
-`@feedbacks`
+`@feedback`
 - good
 - bad

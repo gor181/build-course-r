@@ -1,6 +1,6 @@
 ---
-  title: "4"
-  description: ""
+title: '4'
+description: ""
 ---
 
 ## Insert exercise title here
@@ -13,6 +13,46 @@ key: 6884254136
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ***
@@ -35,6 +75,13 @@ key: 78c675bafb
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
 `@sample_code`
 
 ```{r}
@@ -54,6 +101,12 @@ key: 78c675bafb
 ```{r}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 
@@ -77,6 +130,13 @@ assignment
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
 `@sample_code`
 
 ```{r}
@@ -96,5 +156,11 @@ assignment
 ```{r}
 
 ```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 

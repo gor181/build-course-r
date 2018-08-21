@@ -1,6 +1,6 @@
 ---
-  title: "video"
-  description: ""
+title: video
+description: ""
 ---
 
 ## Insert exercise title here

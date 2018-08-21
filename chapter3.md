@@ -1,6 +1,6 @@
 ---
-  title: "video chapter"
-  description: ""
+title: 'video chapter'
+description: ""
 ---
 
 ## Insert exercise title here
