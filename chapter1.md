@@ -225,7 +225,7 @@ this is a tab exercise
 
 ```yaml
 type: NormalExercise 
-xp: 35 
+xp: 25 
 key: f289e04658   
 ```
 
@@ -280,7 +280,7 @@ instructions 1
 
 ```yaml
 type: MultipleChoiceExercise 
-xp: 35 
+xp: 25 
 key: 087c71b069   
 ```
 
@@ -335,8 +335,63 @@ key: 087c71b069
 
 ```yaml
 type: PureMultipleChoiceExercise 
-xp: 30 
+xp: 25 
 key: 19b0a766ff   
+```
+
+
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{r}
+
+```
+
+
+`@sample_code`
+
+```{r}
+
+```
+
+
+`@solution`
+
+```{r}
+
+```
+
+
+`@sct`
+
+```{r}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
+
+***
+
+
+
+```yaml
+type: NormalExercise 
+xp: 25 
+key: b3503f176d   
 ```
 
 
