@@ -6,9 +6,9 @@ description: ""
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 306ba268f5   
+type: VideoExercise
+key: 306ba268f5
+xp: 50
 ```
 
 `@projector_key`

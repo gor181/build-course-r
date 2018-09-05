@@ -6,14 +6,12 @@ description: 'Insert the chapter description here'
 ## testing long long testing long long testing long long testing long long testing long long testing long long testing long long testing long long sada
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 6134f7e696   
+type: NormalExercise
+key: 6134f7e696
+xp: 100
 ```
 
-
 changeda
-
 
 `@instructions`
 
@@ -22,32 +20,24 @@ changeda
 Agree with their instructor to use a new one or old one
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
 
-
 `@sct`
-
 ```{r}
 dsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkals
 ```
-
 
 `@possible_answers`
 
@@ -60,14 +50,12 @@ dsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdn
 ## MultipleChoice
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: c5b95e9c77   
+type: MultipleChoiceExercise
+key: c5b95e9c77
+xp: 50
 ```
 
-
 assignment
-
 
 `@instructions`
 
@@ -76,32 +64,24 @@ assignment
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
@@ -114,14 +94,12 @@ assignment
 ## Pure Multiple Choice
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: f260bef449   
+type: PureMultipleChoiceExercise
+key: f260bef449
+xp: 50
 ```
 
-
 how are you today
-
 
 `@instructions`
 
@@ -130,32 +108,24 @@ how are you today
 Im fine thanks
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 - [i'm ok]
@@ -170,14 +140,12 @@ Im fine thanks
 ## Tab
 
 ```yaml
-type: TabExercise 
-xp: 100 
-key: ff2903962d   
+type: TabExercise
+key: ff2903962d
+xp: 100
 ```
 
-
 this is a tab exercise
-
 
 `@instructions`
 
@@ -186,32 +154,24 @@ this is a tab exercise
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
@@ -221,15 +181,11 @@ this is a tab exercise
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 25 
-key: f289e04658   
+type: NormalExercise
+key: f289e04658
+xp: 25
 ```
-
-
 
 
 
@@ -240,51 +196,37 @@ instructions 1
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 25 
-key: 087c71b069   
+type: MultipleChoiceExercise
+key: 087c71b069
+xp: 25
 ```
-
-
 
 
 
@@ -295,51 +237,37 @@ key: 087c71b069
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 25 
-key: 19b0a766ff   
+type: PureMultipleChoiceExercise
+key: 19b0a766ff
+xp: 25
 ```
-
-
 
 
 
@@ -350,51 +278,37 @@ key: 19b0a766ff
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 25 
-key: b3503f176d   
+type: NormalExercise
+key: b3503f176d
+xp: 25
 ```
-
-
 
 
 
@@ -405,54 +319,42 @@ key: b3503f176d
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
 
 ---
 
 ## Bullet
 
 ```yaml
-type: BulletExercise 
-xp: 100 
-key: b4986fd506   
+type: BulletExercise
+key: b4986fd506
+xp: 100
 ```
-
 
 this is the assignment and it seems to be working. Goranhere testing HotJar.
 
-
 `@instructions`
 
 
@@ -460,32 +362,24 @@ this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 
 `@pre_exercise_code`
-
 ```{r}
 code
 ```
 
-
 `@sample_code`
-
 ```{r}
 code
 ```
 
-
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
@@ -495,15 +389,11 @@ code
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 25 
-key: f05b7df4d4   
+type: NormalExercise
+key: f05b7df4d4
+xp: 25
 ```
-
-
 
 
 
@@ -514,51 +404,37 @@ key: f05b7df4d4
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 25 
-key: c9e5d11a54   
+type: MultipleChoiceExercise
+key: c9e5d11a54
+xp: 25
 ```
-
-
 
 
 
@@ -569,51 +445,37 @@ key: c9e5d11a54
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 25 
-key: 31d077660f   
+type: PureMultipleChoiceExercise
+key: 31d077660f
+xp: 25
 ```
-
-
 
 
 
@@ -624,51 +486,37 @@ key: 31d077660f
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: MultipleChoiceExercise 
-xp: 25 
-key: 205e240d34   
+type: MultipleChoiceExercise
+key: 205e240d34
+xp: 25
 ```
-
-
 
 
 
@@ -679,53 +527,41 @@ ssa
 aa
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: e8aa0cd19d   
+type: PureMultipleChoiceExercise
+key: e8aa0cd19d
+xp: 50
 ```
 
-
 dasdsa
-
 
 `@instructions`
 
@@ -734,32 +570,24 @@ dasdsa
 dsadas
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 - [ok]
@@ -774,12 +602,10 @@ dsadas
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 9833955dec   
+type: NormalExercise
+key: 9833955dec
+xp: 100
 ```
-
-
 
 
 
@@ -790,32 +616,24 @@ key: 9833955dec
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
@@ -828,14 +646,12 @@ key: 9833955dec
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: 34ce4ccf10   
+type: MultipleChoiceExercise
+key: 34ce4ccf10
+xp: 50
 ```
 
-
 mac
-
 
 `@instructions`
 - 1
@@ -846,32 +662,24 @@ mac
 das
 
 `@pre_exercise_code`
-
 ```{r}
 # pre ec
 ```
 
-
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
@@ -884,14 +692,12 @@ das
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: f8eb34a1b6   
+type: PureMultipleChoiceExercise
+key: f8eb34a1b6
+xp: 50
 ```
 
-
 assignment
-
 
 `@instructions`
 
@@ -900,32 +706,24 @@ assignment
 ok seems to be workign
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 - [1]
@@ -940,12 +738,10 @@ ok seems to be workign
 ## Insert exercise title here
 
 ```yaml
-type: MultipleChoiceExercise 
-xp: 50 
-key: c82cf1f1b8   
+type: MultipleChoiceExercise
+key: c82cf1f1b8
+xp: 50
 ```
-
-
 
 
 
@@ -956,32 +752,24 @@ key: c82cf1f1b8
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
@@ -994,26 +782,25 @@ key: c82cf1f1b8
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: c5a0dda76b   
+type: VideoExercise
+key: c5a0dda76b
+xp: 50
 ```
 
 `@projector_key`
 9b8e5a8ffff6b5070b7ec4fd1193329b
+
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: e0ccadecd7   
+type: NormalExercise
+key: e0ccadecd7
+xp: 100
 ```
 
-
 change
-
 
 `@instructions`
 
@@ -1022,32 +809,24 @@ change
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
@@ -1060,28 +839,27 @@ change
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: ebfabd1841   
+type: VideoExercise
+key: ebfabd1841
+xp: 50
 ```
 
 `@projector_key`
 f78b529cd0840764af00ebc2876f751d
+
 ---
 
 ## <<<New Exercise>>>
 
 ```yaml
-type: MultipleChoiceExercise 
+type: MultipleChoiceExercise
+key: fc9e67768c
 lang: r
-xp: 50 
+xp: 50
 skills: 1
-key: fc9e67768c   
 ```
 
-
 this is a question
-
 
 `@instructions`
 - instruction 1
@@ -1091,32 +869,24 @@ this is a question
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
@@ -1129,25 +899,24 @@ this is a question
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 55aa9d936f   
+type: VideoExercise
+key: 55aa9d936f
+xp: 50
 ```
 
 `@projector_key`
 08521096d1ea8d0b3b8102175b708690
+
 ---
 
 ## <<<New Exercise>>>
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
+type: PureMultipleChoiceExercise
+key: 9be5906e74
+xp: 50
 skills: 1
-key: 9be5906e74   
 ```
-
-
 
 
 
@@ -1158,32 +927,24 @@ key: 9be5906e74
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 - [1]
@@ -1198,12 +959,10 @@ key: 9be5906e74
 ## Insert exercise title here
 
 ```yaml
-type: PureMultipleChoiceExercise 
-xp: 50 
-key: 69ee6b12cb   
+type: PureMultipleChoiceExercise
+key: 69ee6b12cb
+xp: 50
 ```
-
-
 
 
 
@@ -1214,5 +973,3 @@ key: 69ee6b12cb
 
 
 `@feedback`
-
-

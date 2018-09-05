@@ -6,12 +6,10 @@ description: ""
 ## Insert exercise title here
 
 ```yaml
-type: TabExercise 
-xp: 100 
-key: 6884254136   
+type: TabExercise
+key: 6884254136
+xp: 100
 ```
-
-
 
 
 
@@ -22,32 +20,24 @@ key: 6884254136
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
@@ -57,15 +47,11 @@ key: 6884254136
 
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 50 
-key: 78c675bafb   
+type: NormalExercise
+key: 78c675bafb
+xp: 50
 ```
-
-
 
 
 
@@ -76,51 +62,37 @@ key: 78c675bafb
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
 
-
-
 ***
 
-
-
 ```yaml
-type: NormalExercise 
-xp: 50 
-key: 5bcd93a328   
+type: NormalExercise
+key: 5bcd93a328
+xp: 50
 ```
-
-
 
 
 
@@ -131,37 +103,26 @@ assignment
 
 
 `@pre_exercise_code`
-
 ```{r}
 
 ```
-
 
 `@sample_code`
-
 ```{r}
 
 ```
-
 
 `@solution`
-
 ```{r}
 
 ```
-
 
 `@sct`
-
 ```{r}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
-
