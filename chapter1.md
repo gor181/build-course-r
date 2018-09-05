@@ -1193,3 +1193,26 @@ key: 9be5906e74
 - good
 - bad
 
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise 
+xp: 50 
+key: 69ee6b12cb   
+```
+
+
+
+
+
+`@hint`
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
