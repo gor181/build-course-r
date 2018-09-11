@@ -14,7 +14,7 @@ xp: 100
 changeda
 
 `@instructions`
-
+Please enter all the data you need bla bla bla
 
 `@hint`
 Agree with their instructor to use a new one or old one
@@ -44,6 +44,33 @@ dsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdn
 
 `@feedback`
 
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 7686998169
+xp: 50
+```
+
+How much is too much? `boom` aaa
+
+`@hint`
+A lota
+
+`@possible_answers`
+- 1
+- 2
+- [3]
+- 4
+
+`@feedback`
+- not ok
+- not ok
+- bravo!
+- not ok
 
 ---
 
@@ -973,3 +1000,17 @@ xp: 50
 
 
 `@feedback`
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: f9c9c6887a
+xp: 50
+```
+
+`@projector_key`
+d8b0618ad679aa179216c5cbd8616ae7
