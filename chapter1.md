@@ -96,28 +96,6 @@ assignment
 
 ---
 
-## Pure Multiple Choice
-
-```yaml
-type: PureMultipleChoiceExercise
-key: f260bef449
-xp: 50
-```
-
-how are you today
-
-`@hint`
-Im fine thanks
-
-`@possible_answers`
-
-
-`@feedbacks`
-- good
-- bad
-
----
-
 ## Tab
 
 ```yaml
@@ -230,6 +208,28 @@ xp: 25
 ```{r}
 
 ```
+
+---
+
+## Pure Multiple Choice
+
+```yaml
+type: PureMultipleChoiceExercise
+key: f260bef449
+xp: 50
+```
+
+how are you today
+
+`@hint`
+Im fine thanks
+
+`@possible_answers`
+
+
+`@feedbacks`
+- good
+- bad
 
 ---
 
