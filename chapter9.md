@@ -142,3 +142,49 @@ xp: 100
 ```{r}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: TabExercise
+key: a9e1a43453
+xp: 100
+```
+
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+***
+
+```yaml
+type: NormalExercise
+key: b7461ca2f9
+xp: 100
+```
+
+`@instructions`
+
+
+`@hint`
+
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```

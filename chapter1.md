@@ -661,3 +661,41 @@ xp: 50
 
 `@projector_key`
 12fc66a2e114033bef2e87e038961af6
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: ba34234bd3
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
