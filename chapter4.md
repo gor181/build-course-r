@@ -13,12 +13,6 @@ xp: 100
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{r}
 
@@ -28,22 +22,6 @@ xp: 100
 ```{r}
 
 ```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ***
 
@@ -53,18 +31,11 @@ key: 78c675bafb
 xp: 50
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
 ```{r}
@@ -80,11 +51,6 @@ xp: 50
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -94,18 +60,11 @@ key: 5bcd93a328
 xp: 50
 ```
 
-
-
 `@instructions`
 assignment
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
 ```{r}
@@ -121,8 +80,3 @@ assignment
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`

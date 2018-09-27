@@ -26,12 +26,6 @@ xp: 100
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{r}
 
@@ -41,22 +35,6 @@ xp: 100
 ```{r}
 
 ```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ***
 
@@ -66,18 +44,11 @@ key: e4722dd49e
 xp: 50
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
 ```{r}
@@ -93,11 +64,6 @@ xp: 50
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -107,30 +73,10 @@ key: fd2159bdcd
 xp: 50
 ```
 
+`@question`
 
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
 ```{r}
 
 ```
@@ -138,7 +84,13 @@ xp: 50
 `@possible_answers`
 
 
-`@feedback`
+`@hint`
+
+
+`@sct`
+```{r}
+
+```
 
 ---
 
@@ -152,12 +104,6 @@ xp: 100
 
 
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{r}
 
@@ -167,22 +113,6 @@ xp: 100
 ```{r}
 
 ```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ***
 
@@ -192,18 +122,11 @@ key: 4f0b9a52c1
 xp: 100
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
 ```{r}
@@ -219,8 +142,3 @@ xp: 100
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`

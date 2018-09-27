@@ -39,12 +39,6 @@ Agree with their instructor to use a new one or old one
 dsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkalsdsanlkdnaskldnkals
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -66,7 +60,7 @@ A lota
 - [3]
 - 4
 
-`@feedback`
+`@feedbacks`
 - not ok
 - not ok
 - bravo!
@@ -84,7 +78,7 @@ xp: 50
 
 assignment
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
@@ -95,26 +89,10 @@ assignment
 
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -128,37 +106,13 @@ xp: 50
 
 how are you today
 
-`@instructions`
-
-
 `@hint`
 Im fine thanks
 
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
 `@possible_answers`
-- [i'm ok]
-- not ok
 
-`@feedback`
+
+`@feedbacks`
 - good
 - bad
 
@@ -174,12 +128,6 @@ xp: 100
 
 this is a tab exercise
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{r}
 
@@ -189,22 +137,6 @@ this is a tab exercise
 ```{r}
 
 ```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ***
 
@@ -214,18 +146,11 @@ key: f289e04658
 xp: 25
 ```
 
-
-
 `@instructions`
 instructions 1
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
 ```{r}
@@ -241,11 +166,6 @@ instructions 1
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -255,30 +175,10 @@ key: 087c71b069
 xp: 25
 ```
 
+`@question`
 
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
 ```{r}
 
 ```
@@ -286,7 +186,13 @@ xp: 25
 `@possible_answers`
 
 
-`@feedback`
+`@hint`
+
+
+`@sct`
+```{r}
+
+```
 
 ***
 
@@ -296,39 +202,6 @@ key: 19b0a766ff
 xp: 25
 ```
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 ***
 
 ```yaml
@@ -337,18 +210,11 @@ key: b3503f176d
 xp: 25
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
 ```{r}
@@ -364,11 +230,6 @@ xp: 25
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ---
 
@@ -382,12 +243,6 @@ xp: 100
 
 this is the assignment and it seems to be working. Goranhere testing HotJar.
 
-`@instructions`
-
-
-`@hint`
-
-
 `@pre_exercise_code`
 ```{r}
 code
@@ -397,22 +252,6 @@ code
 ```{r}
 code
 ```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ***
 
@@ -422,18 +261,11 @@ key: f05b7df4d4
 xp: 25
 ```
 
-
-
 `@instructions`
 
 
 `@hint`
 
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
 ```{r}
@@ -449,11 +281,6 @@ xp: 25
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ***
 
@@ -463,30 +290,10 @@ key: c9e5d11a54
 xp: 25
 ```
 
+`@question`
 
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
 ```{r}
 
 ```
@@ -494,7 +301,13 @@ xp: 25
 `@possible_answers`
 
 
-`@feedback`
+`@hint`
+
+
+`@sct`
+```{r}
+
+```
 
 ***
 
@@ -504,39 +317,6 @@ key: 31d077660f
 xp: 25
 ```
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
-`@possible_answers`
-
-
-`@feedback`
-
 ***
 
 ```yaml
@@ -545,38 +325,24 @@ key: 205e240d34
 xp: 25
 ```
 
+`@question`
 
-
-`@instructions`
-ssa
-
-`@hint`
-aa
-
-`@pre_exercise_code`
-```{r}
-
-```
 
 `@sample_code`
 ```{r}
 
 ```
 
-`@solution`
-```{r}
+`@possible_answers`
+ssa
 
-```
+`@hint`
+aa
 
 `@sct`
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
 
 ---
 
@@ -590,37 +356,13 @@ xp: 50
 
 dasdsa
 
-`@instructions`
-
-
 `@hint`
 dsadas
 
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
 `@possible_answers`
-- [ok]
-- not ok
 
-`@feedback`
+
+`@feedbacks`
 - yes
 - no
 
@@ -662,12 +404,6 @@ xp: 100
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -680,7 +416,7 @@ xp: 50
 
 mac
 
-`@instructions`
+`@possible_answers`
 - 1
 - 2
 - 3
@@ -693,26 +429,10 @@ das
 # pre ec
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -726,37 +446,13 @@ xp: 50
 
 assignment
 
-`@instructions`
-
-
 `@hint`
 ok seems to be workign
 
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
 `@possible_answers`
-- [1]
-- 2
 
-`@feedback`
+
+`@feedbacks`
 - correct
 - not correct
 
@@ -772,7 +468,7 @@ xp: 50
 
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
@@ -783,26 +479,10 @@ xp: 50
 
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -855,12 +535,6 @@ change
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -888,7 +562,7 @@ skills: 1
 
 this is a question
 
-`@instructions`
+`@possible_answers`
 - instruction 1
 - instruction 2
 
@@ -900,26 +574,10 @@ this is a question
 
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -947,37 +605,13 @@ skills: 1
 
 
 
-`@instructions`
-
-
 `@hint`
 
 
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
 `@possible_answers`
-- [1]
-- 2
 
-`@feedback`
+
+`@feedbacks`
 - good
 - bad
 
@@ -999,7 +633,7 @@ xp: 50
 `@possible_answers`
 
 
-`@feedback`
+`@feedbacks`
 
 
 ---
