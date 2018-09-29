@@ -60,7 +60,7 @@ A lota
 - [3]
 - 4
 
-`@feedback`
+`@feedbacks`
 - not ok
 - not ok
 - bravo!
@@ -78,6 +78,9 @@ xp: 50
 
 assignment
 
+`@possible_answers`
+
+
 `@hint`
 
 
@@ -90,9 +93,6 @@ assignment
 ```{r}
 
 ```
-
-`@possible_answers`
-
 
 ---
 
@@ -124,8 +124,6 @@ key: f289e04658
 xp: 25
 ```
 
-
-
 `@instructions`
 instructions 1
 
@@ -155,9 +153,7 @@ key: 087c71b069
 xp: 25
 ```
 
-
-
-`@hint`
+`@question`
 
 
 `@sample_code`
@@ -165,15 +161,16 @@ xp: 25
 
 ```
 
+`@possible_answers`
+
+
+`@hint`
+
+
 `@sct`
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@question`
 
 ***
 
@@ -190,8 +187,6 @@ type: NormalExercise
 key: b3503f176d
 xp: 25
 ```
-
-
 
 `@instructions`
 
@@ -232,7 +227,7 @@ Im fine thanks
 `@possible_answers`
 
 
-`@feedback`
+`@feedbacks`
 - good
 - bad
 
@@ -266,8 +261,6 @@ key: f05b7df4d4
 xp: 25
 ```
 
-
-
 `@instructions`
 
 
@@ -297,9 +290,7 @@ key: c9e5d11a54
 xp: 25
 ```
 
-
-
-`@hint`
+`@question`
 
 
 `@sample_code`
@@ -307,15 +298,16 @@ xp: 25
 
 ```
 
+`@possible_answers`
+
+
+`@hint`
+
+
 `@sct`
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@question`
 
 ***
 
@@ -333,17 +325,10 @@ key: 205e240d34
 xp: 25
 ```
 
+`@question`
 
-
-`@hint`
-aa
 
 `@sample_code`
-```{r}
-
-```
-
-`@sct`
 ```{r}
 
 ```
@@ -351,7 +336,13 @@ aa
 `@possible_answers`
 ssa
 
-`@question`
+`@hint`
+aa
+
+`@sct`
+```{r}
+
+```
 
 ---
 
@@ -371,7 +362,7 @@ dsadas
 `@possible_answers`
 
 
-`@feedback`
+`@feedbacks`
 - yes
 - no
 
@@ -425,6 +416,11 @@ xp: 50
 
 mac
 
+`@possible_answers`
+- 1
+- 2
+- 3
+
 `@hint`
 das
 
@@ -437,11 +433,6 @@ das
 ```{r}
 
 ```
-
-`@possible_answers`
-- 1
-- 2
-- 3
 
 ---
 
@@ -461,7 +452,7 @@ ok seems to be workign
 `@possible_answers`
 
 
-`@feedback`
+`@feedbacks`
 - correct
 - not correct
 
@@ -477,6 +468,9 @@ xp: 50
 
 
 
+`@possible_answers`
+
+
 `@hint`
 
 
@@ -489,9 +483,6 @@ xp: 50
 ```{r}
 
 ```
-
-`@possible_answers`
-
 
 ---
 
@@ -571,6 +562,10 @@ skills: 1
 
 this is a question
 
+`@possible_answers`
+- instruction 1
+- instruction 2
+
 `@hint`
 
 
@@ -583,10 +578,6 @@ this is a question
 ```{r}
 
 ```
-
-`@possible_answers`
-- instruction 1
-- instruction 2
 
 ---
 
@@ -620,7 +611,7 @@ skills: 1
 `@possible_answers`
 
 
-`@feedback`
+`@feedbacks`
 - good
 - bad
 
@@ -642,7 +633,7 @@ xp: 50
 `@possible_answers`
 
 
-`@feedback`
+`@feedbacks`
 
 
 ---

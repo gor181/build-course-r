@@ -44,8 +44,6 @@ key: e4722dd49e
 xp: 50
 ```
 
-
-
 `@instructions`
 
 
@@ -75,9 +73,7 @@ key: fd2159bdcd
 xp: 50
 ```
 
-
-
-`@hint`
+`@question`
 
 
 `@sample_code`
@@ -85,15 +81,16 @@ xp: 50
 
 ```
 
+`@possible_answers`
+
+
+`@hint`
+
+
 `@sct`
 ```{r}
 
 ```
-
-`@possible_answers`
-
-
-`@question`
 
 ---
 
@@ -124,8 +121,6 @@ type: NormalExercise
 key: 4f0b9a52c1
 xp: 100
 ```
-
-
 
 `@instructions`
 
@@ -172,8 +167,6 @@ type: NormalExercise
 key: b7461ca2f9
 xp: 100
 ```
-
-
 
 `@instructions`
 
