@@ -87,12 +87,6 @@ ex() %>% check_function("biocVersion", index=2)
 success_msg("Well done! this will help you in your documentation when citing the Bioconductor version you are using")
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## BiocLite to install packages
@@ -155,12 +149,6 @@ ex() %>% check_function("packageVersion") %>% check_arg("pkg") %>% check_equal(e
 success_msg("Excellent! using the code from this exercise you can load and check the version of any package from Bioconductor")
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## The role of S4 in Bioconductor
@@ -194,7 +182,7 @@ Let's check the formal definition of this class by using the function
 `showClass("className")`
 - Check the `BSgenome` class results and find which are the parent classes (**Extends**) and the classes that inherit from it (**Subclasses**).
 
-`@instructions`
+`@possible_answers`
 - No classes
 - BSgenome
 - GenomeDescription
@@ -208,16 +196,6 @@ Use `showClass("BSgenome")` to check the formal definition of this class. Check 
 library(BSgenome)
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 msg1 <- "Incorrect. There are at least 1 class that extends from BSgenome and 1 class that is a subclass of BSgenome"
@@ -227,12 +205,6 @@ msg4 <- "Correct! Both ways of inheritance. BSgenome extends from GenomeDescript
 ex() %>% check_mc(4, feedback_msgs = c(msg1, msg2, msg3, msg4))
 success_msg("Well done! The `BSgenome` is a powerful class and inherits from `GenomeDescription` which you will see later on, and has `MaskedBSgenome` as subclass")
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -308,12 +280,6 @@ ex() %>% check_function("seqinfo") %>% check_arg("x") %>% check_equal(eval=FALSE
 
 success_msg("Keep up the good work, you can now check other objects and investigate if they are S4 objects, their classes and their accessors. Remember you can use `.S4methods()` or `showMethods()` to check the accessors list of a class or a function")
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -428,12 +394,6 @@ ex() %>% check_function("nchar") %>% check_arg("x") %>% check_equal()
 success_msg("Excellent job! You have practiced sequence subsetting and next comes another subsetting exercise!")
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Partitioning the Yeast genome
@@ -502,12 +462,6 @@ ex() %>% check_correct(
 success_msg("Congratulations, this might have been the beginning of your first sequence analysis!")
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Available Genomes
@@ -526,7 +480,7 @@ As a recap, the `BSgenome` package makes available various public genomes. If yo
     
 The list of names will appear in the following format: *BSgenome.speciesName.provider.version*. After running this function, can you tell which is the major provider of available genomes?
 
-`@instructions`
+`@possible_answers`
 - 1000genomes
 - JGI
 - NCBI
@@ -541,16 +495,6 @@ You can also check `?available.genomes`
 library(BSgenome)
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 msg1 <- "Incorrect. The 1000 Genome Project has made available only the Homo sapiens genome `BSgenome.Hsapiens.1000genomes.hs37d5`"
@@ -559,8 +503,3 @@ msg3 <- "Incorrect. The National Center for Biotechnology Information NCBI has m
 msg4 <- "Correct! The University of California, Santa Cruz (UCSC) Genome Browser has made available the most genomes for `BSgenome`, totaling 74 of various species."
 ex() %>% check_mc(4, feedback_msgs = c(msg1, msg2, msg3, msg4))
 ```
-
-`@possible_answers`
-
-
-`@feedback`
