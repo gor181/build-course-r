@@ -60,7 +60,7 @@ A lota
 - [3]
 - 4
 
-`@feedbacks`
+`@feedback`
 - not ok
 - not ok
 - bravo!
@@ -227,7 +227,7 @@ Im fine thanks
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 - good
 - bad
 
@@ -362,7 +362,7 @@ dsadas
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 - yes
 - no
 
@@ -452,7 +452,7 @@ ok seems to be workign
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 - correct
 - not correct
 
@@ -611,7 +611,7 @@ skills: 1
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 - good
 - bad
 
@@ -633,7 +633,7 @@ xp: 50
 `@possible_answers`
 
 
-`@feedbacks`
+`@feedback`
 
 
 ---

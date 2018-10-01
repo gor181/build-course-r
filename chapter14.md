@@ -35,31 +35,8 @@ Fill in the blank:
 
 IRanges objects can be defined using two data types: ____ or ____ vectors.
 
-`@instructions`
-
-
 `@hint`
 Think of two different data types, hence you can also discard those that are subtypes.
-
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
 
 `@possible_answers`
 - numeric, integer
@@ -173,12 +150,6 @@ ex() %>% check_correct(
 success_msg("Well done! you have created three `IRanges` objects using different arguments! This is useful to extract sequences on specific sections of your big sequence.")
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Interacting with IRanges
@@ -211,7 +182,7 @@ Remember `width = end - start + 1`
 
 For this exercise, check the lengths of each of the examples provided here. Use either `width()` or `lengths()` functions with each of the examples and see what the difference is before selecting an answer .
 
-`@instructions`
+`@possible_answers`
 - [First example 28; second example 8, 5, 12]
 - First example 27, second example 7, 4, 11
 - First example 29, second example 9, 6, 13
@@ -225,26 +196,10 @@ For this exercise, check the lengths of each of the examples provided here. Use 
 library(IRanges)
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 success_msg("Awesome! You are now able to create an use `IRanges` and check for their lengths or widths. This is going to be very useful when you want to select let's say a 100 base-pair rage from your big sequence. Well done!")
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -383,12 +338,6 @@ ex() %>% check_function("mcols") %>% check_arg("x") %>% check_equal()
 success_msg("Good job!, Remember to check `methods(class = \"GRanges\")` if you want to find and use other accessors.")
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## ABCD1 mutation
@@ -404,31 +353,8 @@ You have just learned about the gene [ABCD1](https://ghr.nlm.nih.gov/gene/ABCD1#
 
 In which chromosome can we find the gene [ABCD1](http://www.ensembl.org/Homo_sapiens/Location/View?db=core;g=ENSG00000101986;r=X:153724868-153744762)?
 
-`@instructions`
-
-
 `@hint`
 The ABCD1 gene is located in a sex chromosome
-
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
 
 `@possible_answers`
 - [Chromosome X]
@@ -536,12 +462,6 @@ ex() %>% check_function("sort") %>% check_arg("x") %>% check_equal()
 success_msg("You really demonstrated good use of the extracting function `genes()`! Similar functions to explore are `transcripts()`, `cds()`, `promoters()`")
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Manipulating collections of GRanges
@@ -584,7 +504,7 @@ ranges(ABCD1)
 
 If you wanted exactly 2 windows using `step = 1L`, what will be the maximum number allowed for the width of a window?
 
-`@instructions`
+`@possible_answers`
 - The length of the genome
 - [The length of the GRanges object -1]
 - The length of the GRanges object
@@ -609,16 +529,6 @@ mywindows <- slidingWindows(ABCD1, width = 19894, step = 1 )
 mywindows
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 msg1 <- "Incorrect. The length of the genome will be much longer than the length of our gene of interest "
@@ -627,12 +537,6 @@ msg3 <- "Incorrect. If you use exactly the same width of the gene, then you will
 msg4 <- "Incorrect. If you choose a width lower than the length of the GRanges object we will have many more windows"
 ex() %>% check_mc(2, feedback_msgs = c(msg1, msg2, msg3, msg4))
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -657,7 +561,7 @@ Are there any overlapping ranges with the `ABCD1` gene?
 
 You can test it using `overlapsAny(ABCD1, hg_chrX)`, then `table`, which will help you count the values.
 
-`@instructions`
+`@possible_answers`
 - There are no overlapping ranges
 - There is no gene `ABCD1`
 - [Yes, there is an overlap between hg_chrX and the gene ABCD1!]
@@ -680,16 +584,6 @@ ABCD1 <- genes(hg,  filter = list(gene_id = "215"))
 rm(hg)
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 msg1 <- "Incorrect. Have you tried the `overlapsAny()` function?"
@@ -697,12 +591,6 @@ msg2 <- "Incorrect. Check the object `ABCD1` to make sure it exists."
 msg3 <- "Correct! Yes! our gene of interest overlaps somewhere in chromosome X. In the next exercise you will find out where."
 ex() %>% check_mc(3, feedback_msgs = c(msg1, msg2, msg3))
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -793,12 +681,6 @@ ex() %>% check_output_expr("hg_chrXt$`215`", missing_msg="Have you correctly sel
 success_msg("I’m amazed by your ability to link concepts you just learned! Keep up the effort you will learn more, and I hope it is fun too!")
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## More about ABCD1
@@ -883,12 +765,6 @@ ex() %>% check_output_expr("rangefound")
 success_msg("Great work! you did pretty well figuring out the name of the gene_id of `ABCD1` is 215 which is an ENTREZ id, and its exact location is chrX:153724868-153744762:+ !")
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## From GRangesList object into a GRanges object
@@ -911,7 +787,7 @@ You can unlist the `hg_chrX` and then check how the lengths differ between the `
 
 Would you expect the `GRanges` object to have a length ____ the `GRangesList`?
 
-`@instructions`
+`@possible_answers`
 - [greater than]
 - lower than
 - equal to
@@ -930,16 +806,6 @@ class(hgChrX)
 length(hgChrX)
 ```
 
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
 `@sct`
 ```{r}
 msg1 <- "Correct! Yes! because the `GRanges` has now all of the ranges in the elements of the list."
@@ -947,8 +813,3 @@ msg2 <- "Incorrect. A `GRanges` object derived from a `GRangesList` can only hav
 msg3 <- "Incorrect. In this case, the `GRanges` object derived from the GRangesList has a larger length."
 ex() %>% check_mc(1, feedback_msgs = c(msg1, msg2, msg3))
 ```
-
-`@possible_answers`
-
-
-`@feedback`
