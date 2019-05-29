@@ -465,5 +465,41 @@
         "indexf": -1
       }
     }
+  ],
+  "slides/chapter_1_8f29151a6f9e2e2792538cd408c1553e.md": [
+    {
+      "timing": 0,
+      "state": {
+        "indexh": 0,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.002325824091604349,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.07882816247737992,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.10258744780844721,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.3889514343673332,
+      "state": {
+        "indexh": 3
+      }
+    }
   ]
 }
