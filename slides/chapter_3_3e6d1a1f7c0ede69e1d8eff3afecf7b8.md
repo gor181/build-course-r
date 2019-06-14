@@ -29,13 +29,13 @@ key: 0244091d70
 ```
 
 `@part1`
-step 1 
+step 1
 
 `@part2`
 step 2 {{1}}
 
 `@part3`
-step 3 
+step 3
 
 `@script`
 
@@ -69,7 +69,7 @@ key: 67777b26e8
 ```
 
 `@part1`
-step 1 
+step 1
 
 `@script`
 

@@ -29,7 +29,7 @@ key: a8d91b649b
 ```
 
 `@part1`
-step 
+step
 
 `@script`
 
@@ -46,7 +46,7 @@ key: 05fcc6fc03
 `@part1`
 step 
 
-step 2 
+step 2
 
 `@script`
 
@@ -61,7 +61,7 @@ key: 5b94d64cf6
 ```
 
 `@part1`
-step 
+step
 
 `@script`
 
@@ -76,7 +76,7 @@ key: 2d2fb791f7
 ```
 
 `@part1`
-step 
+step
 
 `@script`
 
