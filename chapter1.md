@@ -18,9 +18,6 @@ changeda
 aaacommitaa
 
 `@instructions`
-
-
-
 Please enter testall the data you need bla bla bla
 
 `@hint`
