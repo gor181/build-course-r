@@ -585,7 +585,7 @@ this is a question
 
 ---
 
-## Insert exercise title here
+## goran
 
 ```yaml
 type: VideoExercise
@@ -729,3 +729,29 @@ xp: 50
 
 `@projector_key`
 87341be6c2aa27f62efac614cf895692
+
+---
+
+## copied
+
+```yaml
+type: VideoExercise
+key: 75dd1b5215
+xp: 50
+```
+
+`@projector_key`
+95578f4b6099358f9d7c630c04b0b2a8
+
+---
+
+## copied 2
+
+```yaml
+type: VideoExercise
+key: 0d564fc6e2
+xp: 50
+```
+
+`@projector_key`
+e4e2418a4862333c883ef8cd76c63833
