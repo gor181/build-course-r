@@ -53,7 +53,7 @@ key: 7686998169
 xp: 50
 ```
 
-How much is too much? `boom` aaa
+How much is too much? `boom` aaaa
 
 `@hint`
 A lotaass
@@ -86,7 +86,7 @@ assignment
 
 
 `@hint`
-a
+
 
 `@pre_exercise_code`
 ```{r}
@@ -249,7 +249,7 @@ this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 `@pre_exercise_code`
 ```{r}
-code
+codea
 ```
 
 `@sample_code`
