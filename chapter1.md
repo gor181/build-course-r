@@ -249,7 +249,7 @@ this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 `@pre_exercise_code`
 ```{r}
-code
+codea
 ```
 
 `@sample_code`
