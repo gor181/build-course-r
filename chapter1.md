@@ -112,7 +112,7 @@ this is a tab exercise
 
 `@pre_exercise_code`
 ```{r}
-
+aa
 ```
 
 `@sample_code`
