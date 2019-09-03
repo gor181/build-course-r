@@ -56,7 +56,7 @@ xp: 50
 How much is too much? `boom` aaa
 
 `@hint`
-A lota
+A lotaa
 
 `@possible_answers`
 - 1
