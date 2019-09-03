@@ -86,7 +86,7 @@ assignment
 
 
 `@hint`
-
+a
 
 `@pre_exercise_code`
 ```{r}
@@ -249,7 +249,7 @@ this is the assignment and it seems to be working. Goranhere testing HotJar.
 
 `@pre_exercise_code`
 ```{r}
-codea
+code
 ```
 
 `@sample_code`
