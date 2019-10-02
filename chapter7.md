@@ -7,7 +7,7 @@ description: ""
 
 ```yaml
 type: NormalExercise
-key: 1f0e37070b
+key: 4990761ff4
 xp: 100
 ```
 

@@ -1,17 +1,41 @@
 ---
-title: 'a new chapter'
+title: dasdas
 description: ""
-attachments:
-    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_6215/slides/chapter11.pdf'
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise
-key: e99a807428
-xp: 50
+type: NormalExercise
+key: ad1b012804
+xp: 100
 ```
 
-`@projector_key`
-febcc5a78fc028da4c1483c8c5197108
+<!-- Coding exercise documentation: https://instructor-support.datacamp.com/en/articles/2375526-course-coding-exercises -->
+
+`@instructions`
+
+
+`@hint`
+<!-- Hint best practices: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices -->
+Add a hint to support the learners when they get stuck.
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```

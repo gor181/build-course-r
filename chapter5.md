@@ -1,17 +1,55 @@
 ---
-title: video
+title: 'add chapter'
 description: ""
 attachments:
-    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_6215/slides/chapter5.pdf'
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_6215/slides/chapter6.pdf'
 ---
 
 ## Insert exercise title here
 
 ```yaml
 type: VideoExercise
-key: c90d64872e
+key: 6d078f6ea4
 xp: 50
 ```
 
 `@projector_key`
-ccfc18dbed2fcd85a9cad413e74f36b0
+6be09036aa1d80a38b590d1fc8290ce9
+
+---
+
+## goran
+
+```yaml
+type: NormalExercise
+key: e63ff47484
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```

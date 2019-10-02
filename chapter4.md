@@ -1,82 +1,17 @@
 ---
-title: '4'
+title: video
 description: ""
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_6215/slides/chapter5.pdf'
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: TabExercise
-key: 6884254136
-xp: 100
-```
-
-
-
-`@pre_exercise_code`
-```{r}
-
-```
-
-`@sample_code`
-```{r}
-
-```
-
-***
-
-```yaml
-type: NormalExercise
-key: 78c675bafb
+type: VideoExercise
+key: c90d64872e
 xp: 50
 ```
 
-`@instructions`
-
-
-`@hint`
-
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
-
-***
-
-```yaml
-type: NormalExercise
-key: 5bcd93a328
-xp: 50
-```
-
-`@instructions`
-assignment
-
-`@hint`
-
-
-`@sample_code`
-```{r}
-
-```
-
-`@solution`
-```{r}
-
-```
-
-`@sct`
-```{r}
-
-```
+`@projector_key`
+ccfc18dbed2fcd85a9cad413e74f36b0
