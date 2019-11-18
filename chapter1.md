@@ -128,3 +128,31 @@ test
 ```{r}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: ExplorableExercise
+key: 33d14e0067
+xp: 50
+```
+
+abcd
+
+`@possible_answers`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
