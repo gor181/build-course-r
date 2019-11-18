@@ -105,3 +105,26 @@ xp: 50
 
 `@projector_key`
 64d1d77fd02ccea64155854db2f35aed
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NonCodingExercise
+key: 7c6d64b31f
+xp: 100
+```
+
+test
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
